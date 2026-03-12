@@ -1,0 +1,27 @@
+## What Was Logged
+
+- Correlation strategy:
+  - `correlation_id`:
+  - `trace_id` and `span_id` usage:
+- Application logs:
+  - Sinks or files:
+  - Key event types:
+- Traces:
+  - Store or backend:
+  - Important trace IDs:
+  - Sampling decision:
+- Metrics:
+  - Metrics added or confirmed:
+  - Dimensions used:
+- Audit trail:
+  - Store or sink:
+  - Event types captured:
+  - Important audit identifiers:
+- Privacy and retention:
+  - Redaction rules applied:
+  - Retention windows:
+  - Deletion or purge path:
+- Anomalies and gaps:
+  - Missing telemetry:
+  - Redaction failures:
+  - Suspicious or security-relevant events:

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Testing and Evals"
+  short_description: "Run repo-native tests, evals, and startup checks"
+  default_prompt: "Use $testing-and-evals to choose repo-native verification commands, add `evals/evals.json` cases when prompts or skills change, prove startup works, and record evidence before security review."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Workflow Repo Discipline"
+  short_description: "Enforce runbook gates, repo scans, and live status tracking"
+  default_prompt: "Use $workflow-repo-discipline to follow the effective AGENTS control chain, stay strict by default, log active skills, blockers, risks, and gate evidence, and finish with a workflow report."

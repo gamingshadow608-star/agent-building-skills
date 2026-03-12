@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tool Design"
+  short_description: "Design safe MCP and task-shaped tool contracts"
+  default_prompt: "Use $tool-design to choose MCP vs local, define task contracts, and specify auth, approvals, and audit fields."

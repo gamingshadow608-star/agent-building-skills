@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Architecture and Memory"
+  short_description: "Plan architecture briefs, diagrams, memory, and trust boundaries"
+  default_prompt: "Use $agent-architecture-memory to produce the architecture brief, explicit memory decision, and Mermaid diagrams before coding the agent system."

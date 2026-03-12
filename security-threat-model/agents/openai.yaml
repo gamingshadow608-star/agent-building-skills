@@ -1,0 +1,4 @@
+interface:
+  display_name: "Security Threat Model"
+  short_description: "Threat model prompt injection and tool abuse"
+  default_prompt: "Use $security-threat-model to review prompt-injection paths, privileged tool use, and structured security findings."

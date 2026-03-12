@@ -1,0 +1,4 @@
+interface:
+  display_name: "Delivery CI/CD Rollout"
+  short_description: "Plan safe deploys, releases, rollout, and rollback"
+  default_prompt: "Use $delivery-cicd-rollout to define release gates, CI readiness, migration safety, rollout control, and rollback steps for this deployment."

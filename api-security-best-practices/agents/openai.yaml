@@ -1,0 +1,4 @@
+interface:
+  display_name: "API Security Best Practices"
+  short_description: "Secure auth, validation, and abuse controls for APIs"
+  default_prompt: "Use $api-security-best-practices to secure this API surface by choosing authentication, authorization, validation, abuse controls, and safe data-handling patterns."

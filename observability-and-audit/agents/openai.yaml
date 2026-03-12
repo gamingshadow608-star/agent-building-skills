@@ -1,0 +1,4 @@
+interface:
+  display_name: "Observability and Audit"
+  short_description: "Define tracing, logging, metrics, and auditability"
+  default_prompt: "Use $observability-and-audit to define logging, tracing, metrics, and audit requirements for a service, external integration, or automated workflow."

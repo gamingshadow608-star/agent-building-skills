@@ -1,0 +1,11 @@
+{
+  "code": "validation_failed",
+  "message": "Request validation failed.",
+  "request_id": "req_1234567890",
+  "details": [
+    {
+      "field": "email",
+      "reason": "invalid_format"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+## Release Report
+
+- Release identity:
+  - Version:
+  - Tag:
+  - Target revision:
+  - Target environment:
+  - Rollout target:
+- Prior-gate readiness:
+  - Architecture gate evidence:
+  - Test gate evidence:
+  - Security review evidence:
+- CI evidence:
+  - Commands or workflows:
+  - Result:
+  - Blockers or skipped checks:
+- Migration summary:
+  - Persistent-state changes:
+  - Staging rehearsal:
+  - Idempotency and reversibility notes:
+- Rollout strategy:
+  - Strategy used:
+  - Monitoring signals:
+  - Stop conditions:
+  - Rollback triggers:
+- Rollback notes:
+  - Revert steps:
+  - Restore path:
+  - Rollback verification:
+- Secrets handling:
+  - Runtime injection method:
+  - Exposure checks performed:
+- Residual delivery risks:
+  - Remaining risks:
+  - Unverified areas:

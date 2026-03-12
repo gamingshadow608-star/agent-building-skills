@@ -1,0 +1,2 @@
+subject,resource,action,effect,ownership_scope,tenant_scope,conditions,notes
+support_agent,ticket,read,allow,assigned-or-escalated,same-tenant,status!=deleted,Limited to assigned or escalated tickets within the active tenant

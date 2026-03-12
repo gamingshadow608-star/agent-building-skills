@@ -1,0 +1,37 @@
+{
+  "cases": [
+    {
+      "id": "example-case",
+      "prompt": "Describe the required verification loop for a prompt change.",
+      "expected": {
+        "must_include": [
+          "write or update tests",
+          "run tests",
+          "fix failures",
+          "re-run",
+          "security review"
+        ],
+        "must_not_include": [
+          "skip startup verification"
+        ]
+      },
+      "assertions": [
+        {
+          "type": "contains_all",
+          "value": [
+            "write or update tests",
+            "run tests",
+            "fix failures",
+            "re-run"
+          ]
+        },
+        {
+          "type": "not_contains",
+          "value": [
+            "skip startup verification"
+          ]
+        }
+      ]
+    }
+  ]
+}
